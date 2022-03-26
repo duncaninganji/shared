@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">SharedPreferences</string>
+  <string name="user_info">
+    NAME: %1$s
+    EMAIL: %2$s
+  </string>
+</resources>
